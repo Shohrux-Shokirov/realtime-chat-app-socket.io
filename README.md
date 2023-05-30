@@ -21,4 +21,4 @@ To start chat app:
  1. Time of message
  2. Sender name
  3. Scrollbar
- 4. Scroll to buttom button
+ 4. Scroll to bottom button
