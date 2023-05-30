@@ -3,8 +3,8 @@ realtime-chat-app-socket.io
 To start chat app:
   1. In server folder run => npm init (to install dependencies)
   2. In server folder run => npm start (to run socket.io backend)
-  3. In client folfer run => npm install (to install dependencies)
-  4. In client folfer run => npm start (to run frontend)
+  3. In client folder run => npm install (to install dependencies)
+  4. In client folder run => npm start (to run frontend)
   5. READY TO GO!!!!
 
  HOW TO USE.
